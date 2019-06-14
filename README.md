@@ -11,7 +11,9 @@ Want to schedule training at your organization? [Contact Us](https://www.blue-gr
 - [About Databricks on Azure](https://azure.microsoft.com/en-us/services/databricks/)
 - [Databricks Academy](https://academy.databricks.com/)
 - [Azure Pass Redemption](https://www.microsoftazurepass.com/Home/HowTo)
-- [BlueGranite Webinar: Azure Databricks & Azure Data Warehouse: Better Together](https://www.blue-granite.com/azure-databricks-azure-data-warehouse-webinar)
+- [__BlueGranite Webinar:__ Predicting Customer 
+Churn using Azure Databricks](https://www.blue-granite.com/customer-churn-databricks-webinar-june-2019)
+- [__BlueGranite Webinar:__ Azure Databricks & Azure Data Warehouse: Better Together](https://www.blue-granite.com/azure-databricks-azure-data-warehouse-webinar)
 
 ## License
 Original Content &copy; 2019 Databricks, Inc. All rights reserved.
