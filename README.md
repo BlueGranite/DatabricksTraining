@@ -6,7 +6,11 @@ For a list of BlueGranite-hosted Training Events, visit [blue-granite.com/events
 
 Want to schedule training at your organization? [Contact Us](https://www.blue-granite.com/contact-us)!
 
-## Resources
+## Training Materials
+- [Lab Notebooks]()
+- [Initech Sample Data]()
+
+## Additional Resources
 - [Azure Databricks Documentation](https://docs.azuredatabricks.net/)
 - [About Databricks on Azure](https://azure.microsoft.com/en-us/services/databricks/)
 - [Databricks Academy](https://academy.databricks.com/)
