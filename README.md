@@ -9,14 +9,18 @@ Want to schedule training at your organization? [Contact Us](https://www.blue-gr
 ## Training Materials
 - [Lab Notebooks](labs2019.dbc)
 
+## BlueGranite Resources
+- [__BlueGranite Databricks Blog Posts__](https://www.blue-granite.com/blog/topic/azure-databricks)
+- [__BlueGranite Webinar:__ Predicting Customer 
+Churn using Azure Databricks](https://www.blue-granite.com/customer-churn-databricks-webinar-june-2019)
+- [__BlueGranite Webinar:__ Azure Databricks & Azure Data Warehouse: Better Together](https://www.blue-granite.com/azure-databricks-azure-data-warehouse-webinar)
+
 ## Additional Resources
 - [Azure Databricks Documentation](https://docs.azuredatabricks.net/)
 - [About Databricks on Azure](https://azure.microsoft.com/en-us/services/databricks/)
 - [Databricks Academy](https://academy.databricks.com/)
 - [Azure Pass Redemption](https://www.microsoftazurepass.com/Home/HowTo)
-- [__BlueGranite Webinar:__ Predicting Customer 
-Churn using Azure Databricks](https://www.blue-granite.com/customer-churn-databricks-webinar-june-2019)
-- [__BlueGranite Webinar:__ Azure Databricks & Azure Data Warehouse: Better Together](https://www.blue-granite.com/azure-databricks-azure-data-warehouse-webinar)
+
 
 ## License
 Original Content &copy; 2019 Databricks, Inc. All rights reserved.
