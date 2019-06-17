@@ -7,8 +7,7 @@ For a list of BlueGranite-hosted Training Events, visit [blue-granite.com/events
 Want to schedule training at your organization? [Contact Us](https://www.blue-granite.com/contact-us)!
 
 ## Training Materials
-- [Lab Notebooks]()
-- [Initech Sample Data]()
+- [Lab Notebooks](labs2019.dbc)
 
 ## Additional Resources
 - [Azure Databricks Documentation](https://docs.azuredatabricks.net/)
