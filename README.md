@@ -19,6 +19,7 @@ Churn using Azure Databricks](https://www.blue-granite.com/customer-churn-databr
 - [Azure Databricks Documentation](https://docs.azuredatabricks.net/)
 - [About Databricks on Azure](https://azure.microsoft.com/en-us/services/databricks/)
 - [Databricks Academy](https://academy.databricks.com/)
+- [MMLSpark](https://github.com/Azure/mmlspark)
 - [Azure Pass Redemption](https://www.microsoftazurepass.com/Home/HowTo)
 
 
