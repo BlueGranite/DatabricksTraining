@@ -7,7 +7,12 @@ For a list of BlueGranite-hosted Training Events, visit [blue-granite.com/events
 Want to schedule training at your organization? [Contact Us](https://www.blue-granite.com/contact-us)!
 
 ## Training Materials
-- [Lab Notebooks](labs2019.dbc)
+This repository contains the notebooks used in the BlueGranite 1-day Hands On Databricks Workshop.
+
+To use these training materials in your own environment:
+1. Import all of the notebooks found in the **notebooks/** directory of the repo.
+2. Copy all of the data found in the **data/** directory to an Azure Blob Storage container or Azure Data Lake Store
+3. Create a mount point in your Azure Databricks workpace pointing to the location of the data to **/mnt/training-sources**
 
 ## BlueGranite Resources
 - [__BlueGranite Databricks Blog Posts__](https://www.blue-granite.com/blog/topic/azure-databricks)

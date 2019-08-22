@@ -1,0 +1,41 @@
+product_id,category,brand,model,price,processor,size,display
+1,Laptops ,HP,"Spectre x360 2-in-1 13.3"" 4K Ultra HD Touch-Screen Laptop",1499.989990234375,null,null,null
+2,Laptops ,Microsoft,"Surface Pro – 12.3""",1299.989990234375,null,null,null
+3,Laptops ,Microsoft,"Surface Book 2 - 13.5""",1499.989990234375,null,null,null
+4,Laptops ,Dell,"XPS 2-in-1 13.3""",1949.989990234375,null,null,null
+5,Laptops ,Lenovo,"Yoga 920 2-in-1 13.9""",1799.989990234375,null,null,null
+6,Laptops ,Apple ,"MacBook Pro - 15"" Display",2659.989990234375,null,null,null
+7,Laptops ,Apple ,"MacBook Pro - 13"" Display",1499.989990234375,null,null,null
+8,Laptops ,Apple ,"MacBook Pro - 15.4"" Display",1999.989990234375,null,null,null
+9,Laptops ,Apple ,"MacBook Air - 13.3"" Display",999.989990234375,null,null,null
+10,Laptops ,HP,"Pavilion x360 2-in-1 14"" Touch-Screen Laptop",999.989990234375,null,null,null
+11,Laptops ,Dell,"2-in-1 17.3"" Touch-Screen Laptop",1299.989990234375,null,null,null
+12,Laptops ,Samsung,"Notebook 9 Pro 13.3"" Touch-Screen Laptop",1099.989990234375,null,null,null
+13,Laptops ,Google,"Pixelbook 12.3"" Touchscreen Chromebook",1699.989990234375,null,null,null
+14,Laptops ,Samsung,"Notebook 9 spin 13.3"" Touch-Screen Laptop",1199.989990234375,null,null,null
+15,Laptops ,Dell,"15.6"" Laptop",2279.989990234375,null,null,null
+16,Laptops ,Dell,"2-in-1 17.3"" Touch-Screen Laptop",1299.989990234375,null,null,null
+17,Laptops ,Microsoft,"Surface Book 13.5"" Touch Screen with Performance Base",2399.989990234375,null,null,null
+18,Laptops ,Lenovo,"Star Wars Special Edition Galactic Empire - Yoga 910 2-in-1 13.9"" Laptop",1299.989990234375,null,null,null
+19,Laptops ,Microsoft,Surface Pro – 12.3”,2699.989990234375,null,null,null
+20,Laptops ,Lenovo,"15.6"" Laptop",2499.989990234375,null,null,null
+21,tablets,HP&amp;reg;,Envy x2 (2018),299.99,Core-m,"12.3""""",1920×1280 (16:9)
+22,tablets,Chuwi&amp;reg;,CoreBook,299.99,Core-m ,"13.3""""",1920×1080 (16:9) 
+23,tablets,Microsoft,Surface Pro (2017) ,299.99,Core-m/-i,"12.3""""",2736×1824 (3:2)
+24,tablets,Huawai,Matebook E ,299.99,Core-m,"12.0""""",2160×1440 (3:2)
+25,tablets,Acer,Switch 5 ,299.99,Core-i,"12.0""""",2160×1440 (3:2)
+26,tablets,Porsche Design,Book One,299.99,Core-i,"13.3""""",3200×1800 (16:9)
+27,tablets,HP&amp;reg;,Spectre x2 (2017) ,299.99,Core-i,"12.3""""",3000×2000 (3:2)
+28,tablets,HP&amp;reg;,Elite x2 1012 G2 ,299.99,Core-i,"12.3""""",2736×1824 (3:2)
+29,tablets,HP&amp;reg;,Pro x2 612 G2 ,299.99,Core-m,"12.0""""",1920×1280 (3:2)
+30,tablets,Samsung,"""Galaxy Book 12"""" """,299.99,Core-i,"12.0""""",2160×1440 (3:2)
+31,tablets,Samsung,"""Galaxy Book 10.6"""" """,299.99,Core-m,"10.6""""",1920×1280 (3:2)
+32,tablets,Fujitsu,Stylistic Q737 ,299.99,Core-i,"13.3""""",1920×1080 (16:9)
+33,tablets,Dell,Latitude 7285 2-in-1 ,299.99,Core-m,12.3”,2880×1920 (3:2)
+34,tablets,Dell,Latitude 5285 2-in-1 ,299.99,Core-i,"""12.3"""" """,920×1280 (3:2) 
+35,tablets,ASUS,Transformer Pro (T304) ,299.99,Core-i,"12.6""""",2160×1440 (3:2) 
+36,tablets,Lenovo&amp;reg;,Miix 720 ,299.99,Core-i,"12.0""""",2880×1920 (3:2)
+37,tablets,Lenovo&amp;reg;,Thinkpad X1 Tablet (2017) ,299.99,Core-m,"""12.0"""" """,2160×1440 (3:2)
+38,tablets,Cube&amp;reg;,Mix Plus ,299.99,Core-m,"10.6""""",1920×1080 (16:9)
+39,tablets,Eve ,V (Project Pyramid Flipper) ,299.99,Core-m,"""12.3"""" """,2736×1824 (3:2)
+40,tablets,Fujitsu,Stylistic R727 ,299.99,Core-i,"""12.5"""" """,1920×1080 (16:9)
